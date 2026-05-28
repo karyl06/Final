@@ -1,0 +1,27 @@
+```css
+:root {
+    --bs-primary: #ff6b35;
+}
+
+.btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+}
+
+.btn-primary:hover {
+    opacity: 0.9;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
+footer {
+    font-size: 0.9rem;
+}
+```
